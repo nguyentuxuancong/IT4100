@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AirStrike/Demo/Classic.unity
+- path: Assets/AirStrike/Demo/Mainmenu.unity
   isLoaded: 1
   isActive: 1

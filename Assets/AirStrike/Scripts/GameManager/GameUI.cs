@@ -106,7 +106,11 @@ public class GameUI : MonoBehaviour
 				Mode = 0;
 				Time.timeScale = 1;
 			}
-			if (GUI.Button (new Rect (Screen.width / 2 - 150, Screen.height / 2 + 100, 300, 40), "Main menu")) {
+			if (GUI.Button (new Rect (Screen.width / 2 - 150, Screen.height / 2 + 100, 300, 40), "Options")) {
+				Time.timeScale = 1;
+				Mode = 0;
+			}
+			if (GUI.Button (new Rect (Screen.width / 2 - 150, Screen.height / 2 + 150, 300, 40), "Main menu")) {
 				Time.timeScale = 1;
 				Mode = 0;
 				Application.LoadLevel ("Mainmenu");
