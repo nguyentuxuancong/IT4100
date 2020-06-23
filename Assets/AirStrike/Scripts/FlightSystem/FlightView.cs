@@ -21,7 +21,7 @@ public class FlightView : MonoBehaviour
 	public void SwitchCameras ()
 	{
 		indexCamera += 1;
-		if (indexCamera >= Cameras.Length) {
+		if (indexCamera >= 2) {
 			indexCamera = 0;
 		}
 		for (int i =0; i<Cameras.Length; i++) {

@@ -7,8 +7,8 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 	
-	FlightSystem flight;// Core plane system
-	FlightView View;
+	public FlightSystem flight;// Core plane system
+	public FlightView View;
 	
 	public bool Active = true;
 	public bool SimpleControl;// make it easy to control Plane will turning easier.

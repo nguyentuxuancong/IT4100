@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 26.21.14.4587]
+    Renderer: NVIDIA GeForce GTX 960M
+    Vendor:   NVIDIA
+    VRAM:     4055 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Programming\Unity\Projects\AirStrike\build\airstrike_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.970400 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487200 ms
+
+Unloading 183 unused Assets to reduce memory usage. Loaded Objects now: 1067.
+Total: 1.711800 ms (FindLiveObjects: 0.100200 ms CreateObjectMapping: 0.058800 ms MarkObjects: 0.927500 ms  DeleteObjects: 0.624400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577400 ms
+
+Unloading 357 unused Assets to reduce memory usage. Loaded Objects now: 709.
+Total: 1.315200 ms (FindLiveObjects: 0.080900 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.380800 ms  DeleteObjects: 0.812900 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3e8c -> priority: 1 
+  Thread -> id: 3748 -> priority: 1 
+  Thread -> id: 1828 -> priority: 1 
+  Thread -> id: 2980 -> priority: 1 

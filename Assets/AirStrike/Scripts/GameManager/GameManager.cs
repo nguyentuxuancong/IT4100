@@ -5,7 +5,9 @@ public class GameManager : MonoBehaviour {
 	// basic game score
 	public int Score = 0;
 	public int Killed = 0;
-	
+	public static bool Acceleration;
+	public static bool SimpleControl;
+
 	void Start () {
 		Score = 0;
 		Killed = 0;
@@ -13,7 +15,7 @@ public class GameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 	// add score function
 	public void AddScore(int score){
